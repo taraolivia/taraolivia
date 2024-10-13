@@ -14,7 +14,7 @@ I’m especially drawn to **UI/UX design** and love finding creative ways to cre
 
 Here are some of my favorite projects that showcase my work:
 
-### [Bloom 🌿](https://taraolivia.github.io/semester-project-tara-bjorheim/)
+### [Bloom 🌼](https://bloom-lifestyle-blog.netlify.app/)
 A responsive blog platform targeting users interested in **lifestyle** and **self-care**, offering a modern and clean interface. This project was built with **HTML**, **CSS**, and **JavaScript**, featuring dynamic blog posts, carousel sliders, and admin functionality.
 
 ### [GameHub 🎮](https://taraolivia.github.io/GameHub-taraolivia-js_integration/games.html)
