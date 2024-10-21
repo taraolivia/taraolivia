@@ -29,7 +29,7 @@ Feel free to reach out if you want to collaborate or chat about web development.
 
 - 📧 Email: tara.bjorheim@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/tara-olivia-bj%C3%B8rheim-198110228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjVvogZn1RQK40a%2BGJgJ%2Feg%3D%3D)
-- 🌐 [Portfolio](https://tara-bjorheim.netlify.app/)
+- 🌐 [Portfolio](https://tara-olivia.netlify.app/)
 
 ## Skills & Tools 💻
 
