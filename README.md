@@ -37,8 +37,11 @@ Feel free to reach out if you want to collaborate or chat about web development.
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Tailwind CSS**
+- **React**
+- **TypeScript**
+- **Vite**
 - **C** (beginner)
-- **Tailwind CSS** (beginner)
 
 ### Tools:
 - **GitHub**
@@ -82,9 +85,7 @@ Feel free to reach out if you want to collaborate or chat about web development.
 I’m planning to learn this next:
 - **Bootstrap**
 - **Sass**
-- **React**
 - **Vue.js**
-- **TypeScript**
 - **Information Architecture**
 
 ---
