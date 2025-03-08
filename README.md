@@ -17,6 +17,9 @@ Here are some of my favorite projects that showcase my work:
 ### [Bloom 🌼](https://bloom-lifestyle-blog.netlify.app/)
 A responsive blog platform targeting users interested in **lifestyle** and **self-care**, offering a modern and clean interface. This project was built with **HTML**, **CSS**, and **JavaScript**, featuring dynamic blog posts, carousel sliders, and admin functionality.
 
+### [HeartBids 💚](https://heartbids.netlify.app/)
+An auction platform where winning bids fund a charity of your choice. Built with **Typescript** and **React**.
+
 ### [GameHub 🎮](https://taraolivia.github.io/GameHub-taraolivia-js_integration/games.html)
 An interactive online store for gamers, built with **HTML**, **CSS**, and **JavaScript**. Users can filter games by genre, view detailed information, and simulate purchases. Features include dynamic reviews, similar game suggestions, and a theme switcher with multiple options.
 
