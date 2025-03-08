@@ -1,4 +1,4 @@
-# Hi, I'm Tara Olivia Bjørheim! 👋
+# Hi, I'm Tara Olivia Bjørheim! ❤️‍🔥
 
 ### Front-End Developer | Aspiring UI/UX Designer
 
@@ -19,6 +19,9 @@ A responsive blog platform targeting users interested in **lifestyle** and **sel
 
 ### [HeartBids 💚](https://heartbids.netlify.app/)
 An auction platform where winning bids fund a charity of your choice. Built with **Typescript** and **React**.
+
+### [Coach Faret 💪🏻](https://siljefaret.com/)
+A landing page for Personal trainer, rehab trainer and nutritionist Silje Faret Myhre. I am continuously updating this page for the client.
 
 ### [GameHub 🎮](https://taraolivia.github.io/GameHub-taraolivia-js_integration/games.html)
 An interactive online store for gamers, built with **HTML**, **CSS**, and **JavaScript**. Users can filter games by genre, view detailed information, and simulate purchases. Features include dynamic reviews, similar game suggestions, and a theme switcher with multiple options.
